@@ -27,7 +27,7 @@ A web-based Prototype Employee Management System built using Django. The system 
 ---
 
 ## Screenshots
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ## Project Modules
 
