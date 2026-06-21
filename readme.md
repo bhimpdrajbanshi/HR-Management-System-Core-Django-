@@ -1,6 +1,6 @@
 # Employee Management System (Django)
 
-A web-based Employee Management System built using Django. The system provides employee management, role management, authentication, and administrative features through server-rendered templates.
+A web-based Prototype Employee Management System built using Django. The system provides employee management, role management, authentication, and administrative features through server-rendered templates.
 
 ## Features
 
